@@ -1,5 +1,7 @@
 # Luis Bizarro
 
+![Luis Bizarro](https://bizar.ro/assets/images/profile.jpg)
+
 **Role**
 
 Creative technologist specializing in cutting-edge real-time 3D experiences using WebGL, shaders and JavaScript
